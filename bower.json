@@ -8,6 +8,10 @@
     "libs"
   ],
   "dependencies": {
-    "bem-components": "3.0.1"
+    "bem-components": "3.0.1",
+    "bem-core": "3.1.0"
+  },
+  "resolutions": {
+    "bem-core": "3.1.0"
   }
 }

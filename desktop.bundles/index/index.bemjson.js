@@ -17,6 +17,9 @@ module.exports = {
             ]
         },
         {
+            block : 'hypnotoad'
+        },
+/*        {
             block: 'content',
             content: [
                 {
@@ -479,7 +482,7 @@ module.exports = {
                 }
             ]
         },
-        {
+*/        {
             block: 'footer',
             content: [
                 'footer content goes here'
